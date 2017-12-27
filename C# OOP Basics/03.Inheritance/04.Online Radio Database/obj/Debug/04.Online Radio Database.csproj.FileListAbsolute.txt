@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 3 Inheritance Exercises\04.Online Radio Database\bin\Debug\04.Online Radio Database.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 3 Inheritance Exercises\04.Online Radio Database\bin\Debug\04.Online Radio Database.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 3 Inheritance Exercises\04.Online Radio Database\bin\Debug\04.Online Radio Database.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 3 Inheritance Exercises\04.Online Radio Database\obj\Debug\04.Online Radio Database.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 3 Inheritance Exercises\04.Online Radio Database\obj\Debug\04.Online Radio Database.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 3 Inheritance Exercises\04.Online Radio Database\obj\Debug\04.Online Radio Database.pdb

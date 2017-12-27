@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\02.Oldest Family Member\bin\Debug\02.Oldest Family Member.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\02.Oldest Family Member\bin\Debug\02.Oldest Family Member.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\02.Oldest Family Member\bin\Debug\02.Oldest Family Member.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\02.Oldest Family Member\obj\Debug\02.Oldest Family Member.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\02.Oldest Family Member\obj\Debug\02.Oldest Family Member.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\02.Oldest Family Member\obj\Debug\02.Oldest Family Member.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\09.Pokemon Trainer\bin\Debug\09.Pokemon Trainer.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\09.Pokemon Trainer\bin\Debug\09.Pokemon Trainer.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\09.Pokemon Trainer\bin\Debug\09.Pokemon Trainer.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\09.Pokemon Trainer\obj\Debug\09.Pokemon Trainer.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\09.Pokemon Trainer\obj\Debug\09.Pokemon Trainer.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\09.Pokemon Trainer\obj\Debug\09.Pokemon Trainer.pdb

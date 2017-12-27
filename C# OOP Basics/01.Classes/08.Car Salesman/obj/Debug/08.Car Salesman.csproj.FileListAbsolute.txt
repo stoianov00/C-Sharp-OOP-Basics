@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\08.Car Salesman\bin\Debug\08.Car Salesman.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\08.Car Salesman\bin\Debug\08.Car Salesman.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\08.Car Salesman\bin\Debug\08.Car Salesman.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\08.Car Salesman\obj\Debug\08.Car Salesman.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\08.Car Salesman\obj\Debug\08.Car Salesman.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\08.Car Salesman\obj\Debug\08.Car Salesman.pdb

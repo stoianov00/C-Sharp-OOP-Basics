@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\03.Date Modifier\bin\Debug\03.Date Modifier.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\03.Date Modifier\bin\Debug\03.Date Modifier.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\03.Date Modifier\bin\Debug\03.Date Modifier.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\03.Date Modifier\obj\Debug\03.Date Modifier.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\03.Date Modifier\obj\Debug\03.Date Modifier.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\03.Date Modifier\obj\Debug\03.Date Modifier.csprojResolveAssemblyReference.cache

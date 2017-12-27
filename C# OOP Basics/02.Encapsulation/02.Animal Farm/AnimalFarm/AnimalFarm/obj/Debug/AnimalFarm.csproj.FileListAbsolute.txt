@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 2 Encapsulation Exercises\02.CSharp-OOP-Basic-Encapsulation-Exercises\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 2 Encapsulation Exercises\02.CSharp-OOP-Basic-Encapsulation-Exercises\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 2 Encapsulation Exercises\02.CSharp-OOP-Basic-Encapsulation-Exercises\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 2 Encapsulation Exercises\02.CSharp-OOP-Basic-Encapsulation-Exercises\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 2 Encapsulation Exercises\02.CSharp-OOP-Basic-Encapsulation-Exercises\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 2 Encapsulation Exercises\02.CSharp-OOP-Basic-Encapsulation-Exercises\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.pdb

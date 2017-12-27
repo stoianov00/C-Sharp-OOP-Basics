@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 2 Encapsulation Exercises\05.Football Team Generator\bin\Debug\05.Football Team Generator.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 2 Encapsulation Exercises\05.Football Team Generator\bin\Debug\05.Football Team Generator.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 2 Encapsulation Exercises\05.Football Team Generator\bin\Debug\05.Football Team Generator.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 2 Encapsulation Exercises\05.Football Team Generator\obj\Debug\05.Football Team Generator.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 2 Encapsulation Exercises\05.Football Team Generator\obj\Debug\05.Football Team Generator.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 2 Encapsulation Exercises\05.Football Team Generator\obj\Debug\05.Football Team Generator.pdb

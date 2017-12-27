@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 4 Polymorphism Exercices\02.Wild Farm\bin\Debug\02.Wild Farm.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 4 Polymorphism Exercices\02.Wild Farm\bin\Debug\02.Wild Farm.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 4 Polymorphism Exercices\02.Wild Farm\bin\Debug\02.Wild Farm.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 4 Polymorphism Exercices\02.Wild Farm\obj\Debug\02.Wild Farm.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 4 Polymorphism Exercices\02.Wild Farm\obj\Debug\02.Wild Farm.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 4 Polymorphism Exercices\02.Wild Farm\obj\Debug\02.Wild Farm.pdb

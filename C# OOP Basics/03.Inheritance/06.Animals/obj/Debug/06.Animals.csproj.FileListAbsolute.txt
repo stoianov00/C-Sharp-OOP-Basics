@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 3 Inheritance Exercises\06.Animals\bin\Debug\06.Animals.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 3 Inheritance Exercises\06.Animals\bin\Debug\06.Animals.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 3 Inheritance Exercises\06.Animals\bin\Debug\06.Animals.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 3 Inheritance Exercises\06.Animals\obj\Debug\06.Animals.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 3 Inheritance Exercises\06.Animals\obj\Debug\06.Animals.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 3 Inheritance Exercises\06.Animals\obj\Debug\06.Animals.pdb

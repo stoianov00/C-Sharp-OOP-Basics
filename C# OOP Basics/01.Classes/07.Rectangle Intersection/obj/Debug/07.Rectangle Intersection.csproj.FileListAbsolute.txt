@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\07.Rectangle Intersection\bin\Debug\07.Rectangle Intersection.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\07.Rectangle Intersection\bin\Debug\07.Rectangle Intersection.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\07.Rectangle Intersection\bin\Debug\07.Rectangle Intersection.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\07.Rectangle Intersection\obj\Debug\07.Rectangle Intersection.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\07.Rectangle Intersection\obj\Debug\07.Rectangle Intersection.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 1 Classes Exercises\07.Rectangle Intersection\obj\Debug\07.Rectangle Intersection.pdb

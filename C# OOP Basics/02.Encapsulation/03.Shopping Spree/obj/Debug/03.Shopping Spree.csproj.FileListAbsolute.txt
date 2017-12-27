@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 2 Encapsulation Exercises\03.Shopping Spree\bin\Debug\03.Shopping Spree.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 2 Encapsulation Exercises\03.Shopping Spree\bin\Debug\03.Shopping Spree.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 2 Encapsulation Exercises\03.Shopping Spree\bin\Debug\03.Shopping Spree.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 2 Encapsulation Exercises\03.Shopping Spree\obj\Debug\03.Shopping Spree.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 2 Encapsulation Exercises\03.Shopping Spree\obj\Debug\03.Shopping Spree.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# OOP Basics\lecture 2 Encapsulation Exercises\03.Shopping Spree\obj\Debug\03.Shopping Spree.pdb
